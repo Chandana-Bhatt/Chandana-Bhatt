@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⌨️  I’m currently working on Shell Scripting(Tasks:)
+- ⌨️  I’m currently working on Shell Scripting(Tasks:)
 - 💻 I’m currently learning System Design Concepts
 - 👯 I’m looking to collaborate on SRE/DevOps automation projects.
 - 🤔 I’m looking for help with finding SRE roles.
