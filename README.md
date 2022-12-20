@@ -13,5 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandana-Bhatt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Skills :
 
+-Linux - ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
