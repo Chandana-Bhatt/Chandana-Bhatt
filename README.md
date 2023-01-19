@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- ⌨️  I’m currently working on the project : DevOps Tooling Website Solution 
+- ⌨️  I’m currently working on the project : Load Balancer Solution With Apache
 - 💻 I’m currently learning System Design Concepts, Ansible, Terraform, Jenkins
 - 👯 I’m looking to collaborate on SRE/DevOps automation projects (open-source).
 - 🤔 I’m looking for SRE roles.
